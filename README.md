@@ -8,7 +8,7 @@ java -cp . <fps> <speed>
 Hillary Clinton parody. S to start, R to restart and P to pause/resume. Arrow keys to move.
 
 # Source Code:
-Due to my school's policy on plagirism they have not been posted. Private mssage me for this.
+Due to my school's policy on plagirism they have not been posted. Use any Java decompiler.
 
 Credits:
 Cash register sound: http://soundbible.com/1997-Cha-Ching-Register.html
